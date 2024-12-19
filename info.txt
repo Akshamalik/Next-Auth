@@ -1,1 +1,12 @@
 npx install create-next-app@latest
+tailwindcss
+app router
+typescript
+src directory
+import alias @
+
+npm i axios bcryptjs jsonwebtoken nodemailer react-hot-toast
+mongoose
+you dont need express in nextjs
+
+edge connected 
